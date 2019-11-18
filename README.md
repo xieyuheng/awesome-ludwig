@@ -1,9 +1,9 @@
-# Awesome Ludwig
+# Awesome Ludwig People
 
-[Ludwig van Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
-[Ludwig Boltzmann](https://en.wikipedia.org/wiki/Ludwig_Boltzmann)
-[Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
-[Ludwig Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege)
+- [Ludwig van Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
+- [Ludwig Boltzmann](https://en.wikipedia.org/wiki/Ludwig_Boltzmann)
+- [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
+- [Ludwig Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege)
 
 ## Community
 
